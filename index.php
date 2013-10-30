@@ -1,10 +1,6 @@
-<?php
-    // PHPの環境を表示する関数。便利！
-    phpinfo();
+line1
+line2
+line3
+line4
 
-    // 編集１
-
-    // 編集２（Windowsで編集）
-    
-    // Windows で編集
     
