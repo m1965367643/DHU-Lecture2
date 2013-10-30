@@ -5,3 +5,4 @@ line4
 hogehoge
 foobar
 baz
+bug
