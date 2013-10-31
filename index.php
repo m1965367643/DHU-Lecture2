@@ -1,8 +1,1 @@
-line1
-line2
-line3
-line4
-hogehoge
-foobar
-baz
-bug
+This is mac plain text.
