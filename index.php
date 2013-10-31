@@ -1,1 +1,1 @@
-This is mac plain text.
+This is Windows Plain Text.
